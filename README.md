@@ -1,1 +1,1 @@
-# NLP Project for generating est cases from given user stories
+# NLP Project for generating test cases from given user stories
